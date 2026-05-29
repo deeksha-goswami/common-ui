@@ -17,4 +17,4 @@ hello-world = "app:main"
 
 [tool.pytest.ini_options]
 pythonpath = ["."]
-testpaths = ["."]
+testpaths = ["tests"]

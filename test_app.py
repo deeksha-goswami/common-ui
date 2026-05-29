@@ -1,4 +1,4 @@
-from hello_world import greeting
+from app import greeting
 
 
 def test_greeting_returns_hello_world() -> None:
